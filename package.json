@@ -22,7 +22,7 @@
         "@babel/plugin-transform-runtime": "^7.17.0",
         "@babel/runtime": "^7.17.9",
         "@inertiajs/inertia": "^0.11.0",
-        "axios": "^0.26.1",
+        "axios": "^1.12.0",
         "form-backend-validation": "^2.4.0",
         "laravel-nova-ui": "^0.4.12",
         "laravel-vapor": "^0.4.0",
